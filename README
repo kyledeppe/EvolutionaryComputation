@@ -1,0 +1,12 @@
+Scripts
+lab1evocomp.py: Uses Evolutionary Computation to find neural net for lab 1a
+binarywine.py: Implements evolutionary computation on wine data set after converting binary data to fuzzy data
+fuzzywine.py: Implements evolutionary computation on pre-fuzzified wine data set
+binarycoffee.py: Implements evolutionary computation on coffee data set after converting binary data to fuzzy data
+fuzzycoffee.py: Implements evolutionary computation on pre-fuzzified coffee data set
+quiz.py: Uses EC to find a neural network, and then asks user a series of questions to see what drinks they might like.
+
+Classes
+evocomp.py: Evolutionary Computation with fuzzy inputs/outputs
+forwardnet.py: Forward computation, loading data, fuzzification, error calculation, weight mutation, testing data, and
+displaying results.
